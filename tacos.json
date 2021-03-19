@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "6054f3361affb0287f7b5baa"
+  },
+  "title": "Tacos",
+  "desc": "Yummy tacos",
+  "cook_time": 20
+}]
